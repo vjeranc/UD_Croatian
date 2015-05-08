@@ -4,7 +4,7 @@ The Croatian UD treebank is built on top of the [SETimes.HR dependency treebank 
 
 The training set has 3,557 sentences (78,817 words) of newspaper text, while the development set contains 200 sentences (4,823 words) from the same source. The test set has 200 sentences (4,125 words): the first 100 sentences are newspaper text, while the other 100 sentences come from the Croatian Wikipedia.
 
-Sentence and word segmentation was manually checked. The treebank does not include multiword tokens. No language-specific features and relations were used. The POS tags and features were converted from [Multext East v4 revised](http://nlp.ffzg.hr/data/tagging/msd-hr.html) and manually checked. The syntactic annotation was done manually.
+Sentence and word segmentation was manually checked. The treebank does not include multiword tokens. No language-specific features and relations were used. The POS tags and features were converted from [Multext East v4](http://nlp.ffzg.hr/data/tagging/msd-hr.html) and manually checked. The syntactic annotation was done manually.
 
 When using the Croatian UD treebank, please cite the [UD handle](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1464) and the following paper:
 
