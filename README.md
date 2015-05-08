@@ -6,7 +6,7 @@ The training set has 3,557 sentences (78,817 words) of newspaper text, while the
 
 No language-specific features and relations were used. The POS tags and features were converted and manually checked. The syntactic annotation was done manually.
 
-When using the Croatian UD treebank, please cite the following paper:
+When using the Croatian UD treebank, please cite the [UD handle](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1464) and the following paper:
 
 * Željko Agić and Nikola Ljubešić. 2014. [The SETimes.HR Linguistically Annotated Corpus of Croatian](http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf). In Proc. LREC, pp. 1724--1727.
 
