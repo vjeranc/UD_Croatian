@@ -8,4 +8,6 @@ No language-specific features and relations were used. The POS tags and features
 
 When using the Croatian UD treebank, please cite the following paper:
 
-Željko Agić and Nikola Ljubešić. 2014. [The SETimes.HR Linguistically Annotated Corpus of Croatian](http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf). In Proc. LREC, pp. 1724--1727.
+* Željko Agić and Nikola Ljubešić. 2014. [The SETimes.HR Linguistically Annotated Corpus of Croatian](http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf). In Proc. LREC, pp. 1724--1727.
+
+See file LICENSE for further licensing information.
