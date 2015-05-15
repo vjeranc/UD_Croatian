@@ -8,6 +8,6 @@ Sentence and word segmentation was manually checked. The treebank does not inclu
 
 When using the Croatian UD treebank, please cite the [UD handle](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1464) and the following paper:
 
-* Željko Agić and Nikola Ljubešić. 2014. [The SETimes.HR Linguistically Annotated Corpus of Croatian](http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf). In Proc. LREC, pp. 1724--1727.
+* Željko Agić and Nikola Ljubešić. 2014. [The SETimes.HR Linguistically Annotated Corpus of Croatian](http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf). In Proc. LREC, pp. 1724--1727. ([bib](http://aclweb.org/anthology/L/L14/L14-1542.bib))
 
 See file LICENSE for further licensing information.
