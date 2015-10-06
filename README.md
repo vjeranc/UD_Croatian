@@ -11,3 +11,9 @@ When using the Croatian UD treebank, please cite the [UD handle](https://lindat.
 * Željko Agić and Nikola Ljubešić. 2014. [The SETimes.HR Linguistically Annotated Corpus of Croatian](http://www.lrec-conf.org/proceedings/lrec2014/pdf/690_Paper.pdf). In Proc. LREC, pp. 1724--1727. ([bib](http://aclweb.org/anthology/L/L14/L14-1542.bib))
 
 See file LICENSE for further licensing information.
+
+
+Documentation status: stub
+Data source: unknown
+Data available since: UD v1.1
+License: CC BY-SA 4.0
