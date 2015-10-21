@@ -7,6 +7,9 @@
   <size>
     <total><sentences>3957</sentences><tokens>87765</tokens><words>87765</words><fused>0</fused></total>
   </size>
+  <lemmas unique="8827" /><!-- biti, ,, ., u, i, ", na, sebe, za, koji, kako, htjeti, s, taj, da -->
+  <forms unique="17130" /><!-- ,, ., je, u, i, ", na, se, za, su, kako, će, s, da, od -->
+  <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
   <tags unique="14">
     <tag name="ADJ">10161</tag><!-- nov, velik, sav, drugi, politički, međunarodan, prvi, europski, glavni, državan -->
