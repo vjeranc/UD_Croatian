@@ -14,6 +14,8 @@ See file LICENSE for further licensing information.
 
 
 Documentation status: stub
-Data source: unknown
+Data source: manual
 Data available since: UD v1.1
 License: CC BY-SA 4.0
+Genre: news wiki
+Contributors: Agić, Željko; Ljubešić, Nikola
