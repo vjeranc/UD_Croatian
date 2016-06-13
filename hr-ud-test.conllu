@@ -1364,7 +1364,7 @@
 36	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	35	aux	_	_
 37	glavni	glavni	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	38	amod	_	_
 38	tajnik	tajnik	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	35	nsubj	_	_
-39	NATO	NATO	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	_
+39	NATO-a	NATO	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	38	nmod	_	_
 40	.	.	PUNCT	_	_	11	punct	_	_
 
 1	"	"	PUNCT	_	_	5	punct	_	_
@@ -2000,7 +2000,7 @@
 11	)	)	PUNCT	_	_	10	punct	_	_
 12	započeo	započeti	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 13	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	12	aux	_	_
-14	17	17	NUM	_	_	12	nsubj	_	_
+14	sajam	sajam	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
 15	.	.	PUNCT	_	_	12	punct	_	_
 
 1	Kamp	kamp	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -2766,7 +2766,7 @@
 5	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	6	compound	_	_
 6	pridružio	pridružiti	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 7	i	i	CONJ	_	_	8	discourse	_	_
-8	basista	basista	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+8	basist	basist	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 9	Mišo	Mišo	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	appos	_	_
 10	Hrnjak	Hrnjak	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	name	_	_
 11	.	.	PUNCT	_	_	6	punct	_	_
@@ -3711,7 +3711,7 @@
 8	.	.	PUNCT	_	_	1	punct	_	_
 
 1	Imovinski	imovinski	ADV	_	Degree=Pos	2	advmod	_	_
-2	skormna	skroman	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
+2	skromna	skroman	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	amod	_	_
 3	obitelj	obitelj	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
 4	Sanaderovih	Sanaderov	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Poss=Yes	3	nmod	_	_
 5	nije	biti	AUX	_	Negative=Neg|Number=Sing|Person=3|Tense=Pres	7	aux	_	_
